@@ -1,4 +1,4 @@
-name: testcafe-es-modules
+name: testcafe-es-modules-chai-should
 'on':
   push: null
   schedule:
